@@ -9,21 +9,51 @@
 /* Begin PBXBuildFile section */
 		9886E06B291FBA9F005A4566 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E06A291FBA9F005A4566 /* AppDelegate.swift */; };
 		9886E06D291FBA9F005A4566 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E06C291FBA9F005A4566 /* SceneDelegate.swift */; };
-		9886E06F291FBA9F005A4566 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E06E291FBA9F005A4566 /* ViewController.swift */; };
-		9886E072291FBA9F005A4566 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9886E070291FBA9F005A4566 /* Main.storyboard */; };
+		9886E06F291FBA9F005A4566 /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E06E291FBA9F005A4566 /* RegisterVC.swift */; };
 		9886E074291FBAA7005A4566 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9886E073291FBAA7005A4566 /* Assets.xcassets */; };
 		9886E077291FBAA7005A4566 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9886E075291FBAA7005A4566 /* LaunchScreen.storyboard */; };
+		9886E07F291FBAF5005A4566 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E07E291FBAF5005A4566 /* HomeVC.swift */; };
+		9886E087291FBF64005A4566 /* Euclid Circular B SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9886E082291FBF64005A4566 /* Euclid Circular B SemiBold.ttf */; };
+		9886E088291FBF64005A4566 /* Euclid Circular B Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9886E083291FBF64005A4566 /* Euclid Circular B Light.ttf */; };
+		9886E089291FBF64005A4566 /* Euclid Circular B Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9886E084291FBF64005A4566 /* Euclid Circular B Bold.ttf */; };
+		9886E08A291FBF64005A4566 /* Euclid Circular B Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9886E085291FBF64005A4566 /* Euclid Circular B Regular.ttf */; };
+		9886E08B291FBF64005A4566 /* Euclid Circular B Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9886E086291FBF64005A4566 /* Euclid Circular B Medium.ttf */; };
+		9886E08D291FBFA8005A4566 /* Font.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E08C291FBFA8005A4566 /* Font.swift */; };
+		9886E090291FC191005A4566 /* UIView+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E08F291FC191005A4566 /* UIView+Ext.swift */; };
+		9886E094291FD1DC005A4566 /* TabBarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E093291FD1DC005A4566 /* TabBarVC.swift */; };
+		9886E096291FF448005A4566 /* DiscoverVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E095291FF448005A4566 /* DiscoverVC.swift */; };
+		9886E098291FF46C005A4566 /* ProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E097291FF46C005A4566 /* ProfileVC.swift */; };
+		9886E09D292030DD005A4566 /* HeadingInformationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E09C292030DD005A4566 /* HeadingInformationCell.swift */; };
+		9886E09F29203D41005A4566 /* WorkoutCategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E09E29203D41005A4566 /* WorkoutCategoryCell.swift */; };
+		9886E0A229203E13005A4566 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E0A129203E13005A4566 /* CategoryCell.swift */; };
+		9886E0A42920514B005A4566 /* WorkoutVideoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E0A32920514B005A4566 /* WorkoutVideoCell.swift */; };
+		9886E0A6292051B9005A4566 /* VideoCourseCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9886E0A5292051B9005A4566 /* VideoCourseCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9886E067291FBA9F005A4566 /* DeepSlate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeepSlate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9886E06A291FBA9F005A4566 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9886E06C291FBA9F005A4566 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		9886E06E291FBA9F005A4566 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		9886E071291FBA9F005A4566 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9886E06E291FBA9F005A4566 /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
 		9886E073291FBAA7005A4566 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9886E076291FBAA7005A4566 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9886E078291FBAA7005A4566 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9886E07E291FBAF5005A4566 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		9886E082291FBF64005A4566 /* Euclid Circular B SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Euclid Circular B SemiBold.ttf"; sourceTree = "<group>"; };
+		9886E083291FBF64005A4566 /* Euclid Circular B Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Euclid Circular B Light.ttf"; sourceTree = "<group>"; };
+		9886E084291FBF64005A4566 /* Euclid Circular B Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Euclid Circular B Bold.ttf"; sourceTree = "<group>"; };
+		9886E085291FBF64005A4566 /* Euclid Circular B Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Euclid Circular B Regular.ttf"; sourceTree = "<group>"; };
+		9886E086291FBF64005A4566 /* Euclid Circular B Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Euclid Circular B Medium.ttf"; sourceTree = "<group>"; };
+		9886E08C291FBFA8005A4566 /* Font.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Font.swift; sourceTree = "<group>"; };
+		9886E08F291FC191005A4566 /* UIView+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Ext.swift"; sourceTree = "<group>"; };
+		9886E093291FD1DC005A4566 /* TabBarVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarVC.swift; sourceTree = "<group>"; };
+		9886E095291FF448005A4566 /* DiscoverVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverVC.swift; sourceTree = "<group>"; };
+		9886E097291FF46C005A4566 /* ProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVC.swift; sourceTree = "<group>"; };
+		9886E09C292030DD005A4566 /* HeadingInformationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadingInformationCell.swift; sourceTree = "<group>"; };
+		9886E09E29203D41005A4566 /* WorkoutCategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutCategoryCell.swift; sourceTree = "<group>"; };
+		9886E0A129203E13005A4566 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
+		9886E0A32920514B005A4566 /* WorkoutVideoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutVideoCell.swift; sourceTree = "<group>"; };
+		9886E0A5292051B9005A4566 /* VideoCourseCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCourseCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +86,86 @@
 		9886E069291FBA9F005A4566 /* DeepSlate */ = {
 			isa = PBXGroup;
 			children = (
+				9886E09B292030A2005A4566 /* Cells */,
+				9886E091291FD031005A4566 /* Controllers */,
+				9886E08E291FC184005A4566 /* Extensions */,
+				9886E081291FBBE1005A4566 /* Constants */,
+				9886E080291FBBD7005A4566 /* Fonts */,
 				9886E06A291FBA9F005A4566 /* AppDelegate.swift */,
 				9886E06C291FBA9F005A4566 /* SceneDelegate.swift */,
-				9886E06E291FBA9F005A4566 /* ViewController.swift */,
-				9886E070291FBA9F005A4566 /* Main.storyboard */,
 				9886E073291FBAA7005A4566 /* Assets.xcassets */,
 				9886E075291FBAA7005A4566 /* LaunchScreen.storyboard */,
 				9886E078291FBAA7005A4566 /* Info.plist */,
 			);
 			path = DeepSlate;
+			sourceTree = "<group>";
+		};
+		9886E080291FBBD7005A4566 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				9886E084291FBF64005A4566 /* Euclid Circular B Bold.ttf */,
+				9886E083291FBF64005A4566 /* Euclid Circular B Light.ttf */,
+				9886E086291FBF64005A4566 /* Euclid Circular B Medium.ttf */,
+				9886E085291FBF64005A4566 /* Euclid Circular B Regular.ttf */,
+				9886E082291FBF64005A4566 /* Euclid Circular B SemiBold.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		9886E081291FBBE1005A4566 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				9886E08C291FBFA8005A4566 /* Font.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		9886E08E291FC184005A4566 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				9886E08F291FC191005A4566 /* UIView+Ext.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		9886E091291FD031005A4566 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				9886E092291FD1B6005A4566 /* TabBar */,
+				9886E07E291FBAF5005A4566 /* HomeVC.swift */,
+				9886E06E291FBA9F005A4566 /* RegisterVC.swift */,
+				9886E095291FF448005A4566 /* DiscoverVC.swift */,
+				9886E097291FF46C005A4566 /* ProfileVC.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		9886E092291FD1B6005A4566 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				9886E093291FD1DC005A4566 /* TabBarVC.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		9886E09B292030A2005A4566 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				9886E0A029203DFB005A4566 /* CollectionCells */,
+				9886E09C292030DD005A4566 /* HeadingInformationCell.swift */,
+				9886E09E29203D41005A4566 /* WorkoutCategoryCell.swift */,
+				9886E0A32920514B005A4566 /* WorkoutVideoCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		9886E0A029203DFB005A4566 /* CollectionCells */ = {
+			isa = PBXGroup;
+			children = (
+				9886E0A129203E13005A4566 /* CategoryCell.swift */,
+				9886E0A5292051B9005A4566 /* VideoCourseCell.swift */,
+			);
+			path = CollectionCells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +225,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9886E088291FBF64005A4566 /* Euclid Circular B Light.ttf in Resources */,
 				9886E077291FBAA7005A4566 /* LaunchScreen.storyboard in Resources */,
+				9886E08A291FBF64005A4566 /* Euclid Circular B Regular.ttf in Resources */,
 				9886E074291FBAA7005A4566 /* Assets.xcassets in Resources */,
-				9886E072291FBA9F005A4566 /* Main.storyboard in Resources */,
+				9886E089291FBF64005A4566 /* Euclid Circular B Bold.ttf in Resources */,
+				9886E087291FBF64005A4566 /* Euclid Circular B SemiBold.ttf in Resources */,
+				9886E08B291FBF64005A4566 /* Euclid Circular B Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,23 +242,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9886E06F291FBA9F005A4566 /* ViewController.swift in Sources */,
+				9886E094291FD1DC005A4566 /* TabBarVC.swift in Sources */,
+				9886E06F291FBA9F005A4566 /* RegisterVC.swift in Sources */,
+				9886E0A6292051B9005A4566 /* VideoCourseCell.swift in Sources */,
+				9886E07F291FBAF5005A4566 /* HomeVC.swift in Sources */,
+				9886E098291FF46C005A4566 /* ProfileVC.swift in Sources */,
+				9886E09D292030DD005A4566 /* HeadingInformationCell.swift in Sources */,
+				9886E096291FF448005A4566 /* DiscoverVC.swift in Sources */,
+				9886E090291FC191005A4566 /* UIView+Ext.swift in Sources */,
+				9886E08D291FBFA8005A4566 /* Font.swift in Sources */,
 				9886E06B291FBA9F005A4566 /* AppDelegate.swift in Sources */,
+				9886E09F29203D41005A4566 /* WorkoutCategoryCell.swift in Sources */,
+				9886E0A42920514B005A4566 /* WorkoutVideoCell.swift in Sources */,
 				9886E06D291FBA9F005A4566 /* SceneDelegate.swift in Sources */,
+				9886E0A229203E13005A4566 /* CategoryCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		9886E070291FBA9F005A4566 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				9886E071291FBA9F005A4566 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		9886E075291FBAA7005A4566 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
